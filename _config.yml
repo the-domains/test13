@@ -1,19 +1,4 @@
-name: Test13
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.013177954824641347
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,23 @@ color:
   lightness: 0.6964974689763039
   saturation: 0.8454193917568773
   rhythmicContrast: 0.9917505013290793
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Test13
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Tester
+    id: b6fc2b67-1b59-4c21-9ca9-64a536a829ab
+    type: content
+favicon: null
 purpose: []
